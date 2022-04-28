@@ -1,0 +1,292 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: white;
+    overflow-x: hidden;
+}
+nav{
+    box-sizing: border-box;
+    text-align: right;
+    margin-top: -5%;
+    margin-right: 35%;
+}
+nav ul{
+    list-style: none;
+    padding: 2%;
+}
+nav li{
+    font-size: 130%;
+    display: inline;
+    padding: 1%;
+}
+.AB{
+    margin-left: 5%;
+    margin-bottom: -2%;
+    
+}
+.log1{
+    margin-left: 13%;
+    margin-top: -4.5%;
+}
+.talk{
+    margin-left: 90%;
+    margin-bottom: 3px;
+    background-color: blue;
+    border-radius: 5px ;
+    height: 0px;
+    width: 0px;
+    display: inline;
+}
+.it{
+    display: flex;
+    margin-bottom: -10%;
+    
+    
+}
+.twitter{
+    margin-left: 7%;
+    margin-bottom: -10% ;
+    }
+
+.Product-Design{
+    padding-top: 5%;
+    font-size: 250%;
+    margin-left: 5%;
+}
+.small-business{
+    margin-left: 5%;
+}
+.btn{
+    display: inline-flex;
+}
+.contact{
+    border-radius: 2000px;
+    background-color:#5EA194;
+    height: 50px;
+    width: 150px;
+    }
+.project{
+    border-radius: 1500px;
+    margin-left: 1%;
+    height: 40px;
+    width: 100px;
+    background-color:whitesmoke;
+}
+.im{
+    float: right;
+    margin-top: -20%;
+    margin-right: 15%;
+    background-image: url(splash.jpg);
+}
+.num{
+    display: flex;
+    margin-bottom:-4%;
+    padding: 10%;
+
+}
+.years{
+    margin-left: 20%;
+    margin-top: 15%;
+    font-weight: bold;
+
+}
+.numbers{
+    margin-left: 50%;
+    margin-top: 15%;
+    font-weight: bold;
+}
+.projects{
+    margin-left: 50%;
+    margin-top: 20%;
+    font-weight: bold;
+}
+.icons{
+    display: flex;
+    margin-bottom: 5%;
+    
+    
+}
+.slack{
+    margin-left:15%;
+    font-size: 33px;
+}
+.Prudential{
+    margin-left:10% ;
+    font-size: 33px;
+    }
+.microsoft{
+    margin-left: 15%;
+    font-size: 33px;
+    padding-left:-3px;
+}
+.zoover{
+    color: gray;
+    font-size: 50px;
+    margin-left: 15%;
+    }
+.serve{
+    color: green;
+    margin-left: 40%;
+} 
+.log2{
+    margin-left: 5%;
+    margin-top: -9%;
+}   
+.agency{
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 35%;
+}
+.borders{
+    border: 100%;
+    border-radius: 100%;
+    display: flex;
+    margin-left: 17%;
+}
+.Design{
+    border: 5%;
+    background-color: #E0FDFD;
+    padding-right: -4%;
+    }
+.eer{
+    color: blue;
+    margin-left: 20%;
+}
+.paw{
+    color: yellow;
+}
+.dsn{
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 25%;
+}
+.dp{
+    margin-left: 25%;
+    font-size: large;
+    border-radius: 20%;
+    margin-left: 2%;
+}
+.learn{
+    margin-left:25% ;
+}
+.dev{
+    background-color: #5EA194;
+    border-width: 50%;
+
+}
+.dv{
+    font-size: 30px;
+    font-weight: bold;
+
+}
+.full{
+    font-size: large;
+}
+.marketing{
+    background-color: #E0FDFD;
+}
+
+.market{
+    font-size: 30px;
+    font-weight: bold;
+}
+.skills{
+    font-size: large;
+}
+
+.awesome{
+    margin-top: 10%;
+    margin-left: 10%;
+    background-image: no-repeat;
+    background-image: url(splash.jpg);
+}
+.we{
+    margin-left: 60%;
+    margin-top: -32%;
+    color:green
+}
+.log3{
+    margin-left: 18%;
+    margin-top: -14%;
+}
+.luk{
+    margin-left: 60% ;
+    font-weight: bold;
+    font-size: xx-large;
+}
+.contacts{
+    border-radius: 1500%;
+    height:100px;
+    width: 250px;
+}
+.number{
+    float: right;
+    margin-bottom: 90px;
+    margin-right: 22%;
+}.range{
+    display: inline-flex;
+}
+.skills{
+    display: flex;
+}
+.merchant{
+    display: flex;
+}
+.dots{
+    background-image: url(dots.jpg);
+    margin-top: -10%;
+}
+
+.newslatter{
+    margin-top: 30%;
+    margin-left: 37%;
+}
+.log4{
+    margin-left: 9%;
+    margin-top: -8%;
+
+}
+.email{
+    border-radius: 400px;
+    width: 50%;
+    height: 100px;
+    background-color: green;
+
+}
+.subscribe{
+    margin-left:5%; 
+}
+.how{
+    margin-top: 8%;
+    margin-left: 25%;
+    color:green;
+}
+.mind{
+    margin-left:25% ;
+
+}
+
+.full{
+    margin-left: 25%;
+}
+.pic{
+    float: right;
+    margin-top: -33%;
+    margin-right:20% ;
+    background-image: no-repeat;
+    background-image: url(splash.jpg);
+}
+.Uname{
+    border-radius: 50px;
+    width: 5%;
+    
+    background-color: bisque;
+
+}
+.msg{
+    margin-top: 5%;
+    border-radius: 200px;
+    width: 25%;
+    height: 90px;
+    background-color: darkcyan;
+}
